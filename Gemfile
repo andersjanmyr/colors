@@ -1,7 +1,10 @@
 source "http://rubygems.org"
 
 
-# Specify your gem's dependencies in .gemspec
-gemspec
-
+gem 'sinatra'
+gem 'sinatra-reloader'
+gem 'coffee-script'
+gem 'haml'
+gem 'sass'
+gem 'json'
 
